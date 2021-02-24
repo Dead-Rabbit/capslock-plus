@@ -854,3 +854,10 @@ keyFunc_unshiftWinMinimizeStack(){
 keyFunc_winTransparent(){
     winTransparent()
 }
+
+keyFunc_inputNumber(num){
+    Send %num%
+}
+keyFunc_inputNumber_zero(){
+    Send 0
+}
