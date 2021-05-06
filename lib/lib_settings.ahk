@@ -1,4 +1,4 @@
-﻿/*
+/*
 提出settings.ini的设置信息
 
 ini demo:
@@ -114,7 +114,7 @@ if(latestModifyTime!=settingsModifyTime)
     }
     if(isChangeTTranslate)
     {
-        SetTimer, youdaoApiInit, -1
+        SetTimer, transApiInit, -1
     }
     ;如果有新添加的字段，要在这句上面添加一个if，这样文件改动才会修改到相应的内容
     if(isChangeQStyle)

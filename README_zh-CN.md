@@ -77,5 +77,5 @@ keyfunc_listary(){
 |lib_mathBoard.ahk|计算板|
 |lib_mouseSpeed.ahk|鼠标变速|
 |lib_settings.ahk|Capslock+settings.ini设置项提取|
-|lib_ydTrans.ahk|翻译|
+|lib_deepLTrans.ahk|翻译|
 

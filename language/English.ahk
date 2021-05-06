@@ -287,7 +287,7 @@ progressColor=0x00cc99
 ; Youdao API website: http://fanyi.youdao.com/openapi
 
 ; The key of Youdao API. Leave blank to use the built-in key, shared by all users.
-apiKey=0123456789
+apiKey=04f15c70-df90-c1bf-0250-f43cd232b2fe:fx
 
 ; API key type, 0 is the free version, 1 is the paid version. The free version of the key can be applied through the
 ; above URL.

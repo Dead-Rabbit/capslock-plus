@@ -78,5 +78,5 @@ the function of each file is as follows:
 |lib_mathBoard.ahk|Math Board|
 |lib_mouseSpeed.ahk|Mouse speed modification|
 |lib_settings.ahk|Load the settings in CapsLock+settings.ini|
-|lib_ydTrans.ahk|Youdao Translation|
+|lib_deepLTrans.ahk|Youdao Translation|
 

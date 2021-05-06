@@ -51,7 +51,7 @@ allowRunOnClipboardChange:=true
 
 #include lib_settings.ahk ;get the settings from capslock+settings.ini 
 #Include lib_clQ.ahk ;capslock+Q
-#Include lib_ydTrans.ahk  ;capslock+T translate
+#Include lib_deepLTrans.ahk  ;capslock+T translate
 #Include lib_clTab.ahk 
 #Include lib_functions.ahk ;public functions
 #Include lib_bindWins.ahk ;capslock+` 1~8, windows bind
